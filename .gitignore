@@ -10,8 +10,6 @@ user_behavior.db
 *.db
 *.sqlite
 *.sqlite3
-results/
-charts/
 data_preview.txt
 
 # python cache
