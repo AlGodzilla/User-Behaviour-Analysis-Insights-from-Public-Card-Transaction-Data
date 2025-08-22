@@ -1,0 +1,25 @@
+# raw data (keep out of git)
+users_data.csv
+cards_data.csv
+transactions_data.csv
+data/
+data/*
+
+# derived artifacts
+user_behavior.db
+*.db
+*.sqlite
+*.sqlite3
+results/
+charts/
+data_preview.txt
+
+# python cache
+__pycache__/
+*.pyc
+
+# editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
